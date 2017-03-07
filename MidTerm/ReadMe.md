@@ -48,7 +48,8 @@
     *  This shows the most popular section in the month of November
     *  The data for the same was scraped through NYTimes api and the api used for the same was **Archieve API**
     
-The output is located at : \\Output\\Question2_Analysis2
+![question2_analysis2](https://cloud.githubusercontent.com/assets/25187720/23642171/8659db88-02ad-11e7-8637-9fb557d1d230.PNG)
+
 
 *  Third Analysis
     *  **Top 10 topics** which were very relevent and associated with President **Barack Obama** based on the keywords        in the json file
