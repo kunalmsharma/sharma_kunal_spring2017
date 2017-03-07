@@ -55,4 +55,5 @@
     *  **Top 10 topics** which were very relevent and associated with President **Barack Obama** based on the keywords        in the json file
     *  The data for the same was scraped through NYTimes api and the api used for the same was **Article Search API**
     
-The output is located at : \\Output\\Question2_Analysis3
+![question2_analysis3](https://cloud.githubusercontent.com/assets/25187720/23642184/9b97780c-02ad-11e7-9fe7-496e0ca2470f.PNG)
+
