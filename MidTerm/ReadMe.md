@@ -40,7 +40,8 @@
     *  This was achieved through going through the **headline & main headlines** and finding whether Trump appears in          the data and than putting count to find how many times it appeared.
     *  The data for the same was scraped through NYTimes api and the api used for the same was **Archieve API**
     
-The output is located at : \\Output\\Question2_Analysis1
+![question2_analysis1](https://cloud.githubusercontent.com/assets/25187720/23642153/6ab250ae-02ad-11e7-84a8-209f30b7432f.PNG)
+
 
 * Second Analysis
     *  This analysis of **section_name** shows the **top 10** sections which were in the month of **November**
