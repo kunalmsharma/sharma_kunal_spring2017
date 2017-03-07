@@ -26,7 +26,10 @@
     *  Based on the most frequently used words in CEO Kenneth Jay's email body we come to a conclusion that California        is the most important state in USA for Enron's business and other activities.
     *  The number of time California is repeated in the email body of CEO Kenneth Jay is 3734.
 
-The output is located at : \\Output\\Question1_Analysis3
+
+![question1_analysis3](https://cloud.githubusercontent.com/assets/25187720/23642128/51c4fa74-02ad-11e7-886a-99de5f154b24.PNG)
+
+
 
 ## Question 2
     * Analysis of NYT data
