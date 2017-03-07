@@ -19,7 +19,8 @@
     *  **Bankruptcy** is one of the most frequently used word which we came to know based on the analysis of the emails        send and received by Kenneth Lay. 
     *  This proves the fact that Kenneth Lay was **aware** that the company is not doing well for a long time and it is        on the verge of bankruptcy but still it projected in market that the company is in profits which was enough to        prove is criminal activity.
   
-The output is located at : \\Output\\Question1_Analysis2
+
+![question1_analysis2](https://cloud.githubusercontent.com/assets/25187720/23642109/3a2814dc-02ad-11e7-838b-26917fdb7611.PNG)
 
 * Third Analysis
     *  Based on the most frequently used words in CEO Kenneth Jay's email body we come to a conclusion that California        is the most important state in USA for Enron's business and other activities.
