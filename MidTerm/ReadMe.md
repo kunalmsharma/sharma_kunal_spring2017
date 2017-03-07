@@ -12,7 +12,7 @@
     *  In order to achieve this objective I have save all the emails in two text files, one being send and another            being To.
     *  After this I have used **Counter** to find out the top 10 among all of these.
 
-![alt tag](http://github.com/kunalmsharma/sharma_kunal_spring2017/MidTerm/Output/Question1_Analysis1.PNG)
+![question1_analysis1](https://cloud.githubusercontent.com/assets/25187720/23642052/1386a2da-02ad-11e7-9e55-1196b3a50ac8.PNG)
     
 
 * Second Analysis
