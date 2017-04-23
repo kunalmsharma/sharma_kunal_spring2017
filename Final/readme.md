@@ -41,10 +41,10 @@
 
  * Based on the data avialable from IMDB Dataset we find out the **Best Director** of all times by using Facebook Like,IMDB Score and Average Revenue
 
-        - HeatMap
+        - HeatMap of all the parameters
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_2/HeatMap.png)
 
-        - Venn Diagram Comparision  
+        - Venn Diagram Comparision to find the best director 
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_2/BestDirector.png)        
         
 # Inference of Analysis 2
@@ -88,7 +88,7 @@
   * Which genres got maximum >= 7 ratings
   * Which genres are most profitable
   
-         - IMDB rating of all genres of movies
+         - IMDB rating of all genres of movies having more than or equal to 7 rating
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_5/HighIMDBHenres.png)  
          
          
