@@ -34,12 +34,12 @@
 
 # Inference of Analysis 1
 
- * From the analysis we come to the conclusion that Nudity and sex seems to be a good selling point for blockbusters and the producers know it too as it is equally common in big budget movies.
+ * From the analysis we come to the conclusion that **Nudity and sex** seems to be a good selling point for blockbusters and the producers know it too as it is equally common in big budget movies.
  * People like to go to watch movies to which they can relate to that is why sex, nudity and relationship are the top 3 keywords in the highest grossing movies and producers and cinema houses seems to know their audience as well.
 
 # Analysis 2
 
- * Based on the data avialable from IMDB Dataset we find out the **Best Director** of all times by using Facebook Like,IMDB Score and Average Revenue
+ * Based on the data avialable from IMDB Dataset we find out the **Best Director** of all times by using **Facebook Like,IMDB Score and Average Revenue**
 
         - HeatMap of all the parameters
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_2/HeatMap.png)
@@ -53,7 +53,7 @@
 
 # Analysis 3
 
-* Doing a Comparative analysis of how successful horror movies are in terms of earnings with reference to other genres by gathered data in IMDB from over a period of many years. 
+* Doing a **Comparative analysis** of how successful **horror movies** are in terms of earnings with reference to **other genres** by gathered data in IMDB from over a period of many years. 
 
          - IMDB Score of horror movies and all films over the years
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_3/YearWiseIMDBMean.png)  
@@ -63,14 +63,14 @@
 
 # Inference of Analysis 3
 
- * Based on the above analysis we come to the conclusion that films made on horror genres is more successful than any      other genres.
- * Interesting to see that Horror films have more success at the box office compared to all movies in the dataset. 
+ * Based on the above analysis we come to the conclusion that films made on **horror genres is more successful than any other genres**.
+ * Interesting to see that **Horror films have more success** at the box office compared to all movies in the dataset. 
  * Which implies that horror genre is more bankable as it's probability of being a hit is more.
 
 # Analysis 4
 
  * This analysis takes into consideration the budget and the gross income from the movie and deduces the profit.
- * Thus we come to the conclusion of Top biggest hit and biggest flop.
+ * Thus we come to the conclusion of **Top biggest hit and biggest flop**.
  
         - The top Flops movies from tha available data are plotted below
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_4/TopFlops.png)           
@@ -80,7 +80,7 @@
 
 # Inference of Analysis 4
 
-  * Based on the above analysis we come to the conclusion that these were the Top Flops and Hits of all time.
+  * Based on the above analysis we come to the conclusion that these were the **Top Flops and Hits of all time**.
 
 # Analysis 5
 
@@ -96,6 +96,6 @@
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_5/ProfitofGenres.png)  
 # Inference of Analysis 5
 
- * As we can see **Drama,Comedy and Thriller** have maximum numbr of films in this category but if you look at it's profit it's not very much compared to other genres.
- * From the above analysis we can certainly say that genres with more imdb score need not be the most profitable genres    to produce movies in.
- * As we can see that imdb score is not directly proportional to box office collection.
+ * As we can see **Drama,Comedy and Thriller** have maximum number of films in this category but if you look at it's profit it's not very much compared to other genres.
+ * From the above analysis we can certainly say that genres with **more imdb score** need **not** be the most profitable genres to produce movies in.
+ * As we can see that **imdb score is not directly proportional to box office collection**.
