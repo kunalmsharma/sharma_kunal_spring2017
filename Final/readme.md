@@ -4,8 +4,11 @@
 
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/extra/imdb.jpg)
 
-## The data is of IMDB 5000 Movie Dataset is in the CSV format and the name of the file is movie_metadata.csv which contains all the information regarding the entire aspect of a movie.
+# Information regarding the IMDB 5000 Movie Dataset
+## The data is of IMDB 5000 Movie Dataset is in the CSV format and the name of the file is movie_metadata.csv which contains all the information regarding the entire aspect of a movie. Just to give a glimse of what the data contains, it has columns like director_name, num_critic_for_reviews, num_voted_users, genres, gross, etc. This shows that it contains every piece od data that is useful and related to the movie.
 
+# Collection of Data
+## The data has been gathered from online source. It contains all the related informtion regarding movies and it is sored in the csv format. In order to perform analysis we have to read the csv file in python and then do relevant analysis as per user's choice.
 
 # Analysis Performed
 
