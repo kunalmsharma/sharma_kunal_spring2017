@@ -71,6 +71,12 @@
 
  * This analysis takes into consideration the budget and the gross income from the movie and deduces the profit.
  * Thus we come to the conclusion of Top biggest hit and biggest flop.
+ 
+        - The top Flops movies from tha available data are plotted below
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_4/TopFlops.png)           
+        
+        - The top Hits movies from tha available data are plotted below
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_4/TopHits.png)        
 
 # Inference of Analysis 4
 
