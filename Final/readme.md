@@ -87,7 +87,13 @@
   * Analysis to find out that whether there is any correlation between **high imdb rated movie** with it's **profit**.
   * Which genres got maximum >= 7 ratings
   * Which genres are most profitable
-
+  
+         - IMDB rating of all genres of movies
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_5/HighIMDBHenres.png)  
+         
+         
+         - The profits of all genres of movies are specified below
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_5/ProfitofGenres.png)  
 # Inference of Analysis 5
 
  * From the above analysis we can certainly say that genres with more imdb score need not be the most profitable genres    to produce movies in.
