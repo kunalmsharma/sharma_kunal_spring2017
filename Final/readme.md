@@ -19,16 +19,16 @@
 
  
  
- - IMBD top 250 based on Keywords
+       - IMBD top 250 based on Keywords
  ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_1/TopIMDBMoviesKeyword.png)
  
- - Top 250 highest grossing movies based on Keywords
+       - Top 250 highest grossing movies based on Keywords
  ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_1/TopGrossingMoviesKeyword.png)
  
- - Top 250 movies with the highest budget based on Keywords
+       - Top 250 movies with the highest budget based on Keywords
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_1/TopHIghestBudgetKeyword.png)
 
- - Comparision between all the three plots
+       - Comparision between all the three plots
  
  ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_1/Comparision.png)
 
