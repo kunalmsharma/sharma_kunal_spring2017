@@ -2,6 +2,8 @@
 # Data Analysis Using Python - Final Project
 # IMDB 5000 Movie Dataset
 
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/extra/imdb.jpg)
+
 ## The data is of IMDB 5000 Movie Dataset is in the CSV format and the name of the file is movie_metadata.csv which contains all the information regarding the entire aspect of a movie.
 
 
