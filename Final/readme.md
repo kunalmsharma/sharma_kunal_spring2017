@@ -55,6 +55,12 @@
 
 * Doing a Comparative analysis of how successful horror movies are in terms of earnings with reference to other genres by gathered data in IMDB from over a period of many years. 
 
+         - IMDB Score of horror movies and all films over the years
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_2/BestDirector.png)  
+
+         - Comparision of Hit percentage between horror films and other movies
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_3/Comparision.png)
+
 # Inference of Analysis 3
 
  * Based on the above analysis we come to the conclusion that films made on horror genres is more successful than any      other genres.
