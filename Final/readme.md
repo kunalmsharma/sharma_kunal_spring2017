@@ -41,6 +41,12 @@
 
  * Based on the data avialable from IMDB Dataset we find out the **Best Director** of all times by using Facebook Like,IMDB Score and Average Revenue
 
+        - HeatMap
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_2/HeatMap.png)
+
+        - Venn Diagram Comparision  
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_2/BestDirector.png)        
+        
 # Inference of Analysis 2
 
  * Based on the analysis done by comparing all the facebook likes which shows how popular a director is among masses,How much successful he is in terms of revenue generated and imdb score which evolves with time we come to the conclusion that **Christopher Nolan** is the best director.
