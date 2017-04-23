@@ -96,6 +96,6 @@
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_5/ProfitofGenres.png)  
 # Inference of Analysis 5
 
- * As we can see Drama,Comedy and Thriller have maximum numbr of films in this category but if you look at it's profit it's not very much compared to other genres.
+ * As we can see **Drama,Comedy and Thriller** have maximum numbr of films in this category but if you look at it's profit it's not very much compared to other genres.
  * From the above analysis we can certainly say that genres with more imdb score need not be the most profitable genres    to produce movies in.
  * As we can see that imdb score is not directly proportional to box office collection.
