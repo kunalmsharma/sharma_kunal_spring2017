@@ -15,6 +15,9 @@
  - Top 250 highest grossing movies based on Keywords
  - Top 250 movies with the highest budget based on Keywords
 
+
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_1/Comparision.png)
+
 # Inference of Analysis 1
 
  * From the analysis we come to the conclusion that Nudity and sex seems to be a good selling point for blockbusters and the producers know it too as it is equally common in big budget movies.
