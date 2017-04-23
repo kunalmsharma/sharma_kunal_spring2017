@@ -56,7 +56,7 @@
 * Doing a Comparative analysis of how successful horror movies are in terms of earnings with reference to other genres by gathered data in IMDB from over a period of many years. 
 
          - IMDB Score of horror movies and all films over the years
-![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_2/BestDirector.png)  
+![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_3/YearWiseIMDBMean.png)  
 
          - Comparision of Hit percentage between horror films and other movies
 ![alt text](https://github.com/kunalmsharma/sharma_kunal_spring2017/blob/master/Final/analysis/ana_3/Comparision.png)
